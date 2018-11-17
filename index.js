@@ -1,9 +1,9 @@
 // Code your solution here:
-function driversWithRevenueOver(obj, revenue) {
-  
+function driversWithRevenueOver(driver, revenue) {
+
 }
 
-function driverNamesWithRevenueOver(obj, revenue) {
+function driverNamesWithRevenueOver(driver, revenue) {
 
 }
 
