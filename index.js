@@ -11,6 +11,6 @@ function exactMatch() {
 
 }
 
-fucntion exactMatchToList(){
+function exactMatchToList(){
 
 }
